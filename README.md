@@ -22,7 +22,7 @@ To get started with Empower Your Learning, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DeependraVerma/Empower-Your-Learning-Personalized-Roadmap-Tool.git
+   git clone https://github.com/jhasid/customiseLearningPath.git
    ```
 
 2. Install the required dependencies:
@@ -55,8 +55,3 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to the open-source community for their contributions and support in making this project possible. Let's continue to empower learners worldwide!
-
-Feel free to explore the project, contribute, and embark on your journey of lifelong learning with Empower Your Learning! 🚀📚
