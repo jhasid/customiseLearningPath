@@ -1,0 +1,7 @@
+streamlit
+graphviz
+google-generativeai
+python-dotenv
+pathlib
+ipykernel
+seaborn
